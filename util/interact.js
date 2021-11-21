@@ -1,7 +1,7 @@
 const contractABI = require("../contract-abi.json");
 const contractAddress = "TOKEN_HERE";
 const { createAlchemyWeb3 } = require("@alch/alchemy-web3");
-const web3 = createAlchemyWeb3("https://eth-mainnet.alchemyapi.io/v2/Kga--aGZdmXccF9GuvlcXm34gZ_GYs9e");
+const web3 = createAlchemyWeb3("TOKEN_HERE");
 
 export const connectWallet = async () => {
     if (window.ethereum) {
