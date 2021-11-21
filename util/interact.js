@@ -1,5 +1,5 @@
 const contractABI = require("../contract-abi.json");
-const contractAddress = "0x453f8D5943A85dBF5594F6BE84e632F62CeE2Ac6";
+const contractAddress = "TOKEN_HERE";
 const { createAlchemyWeb3 } = require("@alch/alchemy-web3");
 const web3 = createAlchemyWeb3("https://eth-mainnet.alchemyapi.io/v2/Kga--aGZdmXccF9GuvlcXm34gZ_GYs9e");
 
