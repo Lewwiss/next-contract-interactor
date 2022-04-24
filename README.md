@@ -1,4 +1,4 @@
-# NextJS Contrac Interator
+# NextJS Contrac Interactor
 
 This is an app that uses [Alchemy Web3](https://docs.alchemy.com/alchemy/documentation/alchemy-web3), to allow users to interact with a deployed Ethereum contract.
 
